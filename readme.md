@@ -1,6 +1,7 @@
-Portfolio
+<h1>Portfolio</h1>
 
 Technologies: <br>
+
 ⦁	JavaScript. <br>
 ⦁	Three.js. <br>
 ⦁	React Three Fiber. <br>
