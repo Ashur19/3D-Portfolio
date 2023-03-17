@@ -1,12 +1,12 @@
 Portfolio
 
-Technologies: 
-⦁	JavaScript.
-⦁	Three.js.
-⦁	React Three Fiber. 
-⦁	Tailwind.
-⦁	Framer Motion.
-⦁	Email JS.
+Technologies: <br>
+⦁	JavaScript. <br>
+⦁	Three.js. <br>
+⦁	React Three Fiber. <br>
+⦁	Tailwind. <br>
+⦁	Framer Motion. <br>
+⦁	Email JS. <br>
 
 Install:
 1.	npm create vite@latest ./ -- --template react
